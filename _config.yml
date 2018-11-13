@@ -20,29 +20,29 @@ excerpt_separator: "[-----]"
 mode: product
 url: https://xiangzhangauguest.github.io/
 devurl: http://localhost:4000/
-name: UniFreak
-title: UniFreak | Another yet unique freak is showing a freakshow
+name: Modest
+title: Modest | Stanfords duck
 description: "Fanghao's personal weblog, on coding or such stuff"
 
 my:
-    displayName: UniFreak
-    realName: FangHao
-    realName_cn: 方浩
-    jobTitle: "PHP Coder"
+    displayName: Modest
+    realName: Xiang
+    realName_cn: 翔
+    jobTitle: "machine learning engineer"
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
-        github: http://www.github.com/UniFreak
-        qzone: http://744910240.qzone.qq.com
-        pinterest: https://www.pinterest.com/miblah/
-        tel: 15532915861
+        qq: 1365170473
+        email: zhangxiang0831@gmail.com
+        github: http://www.github.com/xiangzhangauguest
+        qzone: http://www.github.com/xiangzhangauguest
+        pinterest: http://www.github.com/xiangzhangauguest
+        tel: 000-0000-0000
         address:
             country: China
             state: Beijing
             city: Beijing
-            distribute: ChaoYang
-            postcode: 000000
-            cell: "AnHuiLi"
+            distribute: HaiDian
+            postcode: 100086
+            cell: "000"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
