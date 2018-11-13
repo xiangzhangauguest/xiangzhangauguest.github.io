@@ -2,7 +2,7 @@
 title: "Setup shadowsocks on AWS EC2 linux machine."
 layout: post
 category: [动手实践]
-tags: [shadowsocks]
+tags: [ss]
 excerpt: "在AWS上申请一个EC2 linux机器，然后在上面设置shadowsocks服务端，这里纪录一下。"
 ---
 
