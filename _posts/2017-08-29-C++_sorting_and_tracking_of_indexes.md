@@ -2,7 +2,7 @@
 title: "C++ sorting and tracking of indexes"
 layout: post
 category: [疑难杂症]
-tags: [c++, algorithm]
+tags: [cpp, algorithm]
 excerpt: "做题遇到一个小问题，如何解决C++ 对vector排序并返回索引。"
 ---
 

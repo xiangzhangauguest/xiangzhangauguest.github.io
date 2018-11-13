@@ -2,7 +2,7 @@
 title: "C++ Creating a class object with and without new"
 layout: post
 category: [人生经验]
-tags: [C++]
+tags: [cpp]
 excerpt: "在做leetcode的一个题的时候，遇到了创建object的用new分配dynamic memory和不用new分配automatic memory的两个方法，查了stackoverflow上的答案，本文比较一下两种方法。"
 ---
 

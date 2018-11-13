@@ -2,7 +2,7 @@
 title: "GCC/G++ Compile Multiple Files"
 layout: post
 category: [人生经验, 他山之石]
-tags: [gcc, g++, c++]
+tags: [gcc, cpp]
 excerpt: "转载： G++ 编译多个文件."
 ---
 
