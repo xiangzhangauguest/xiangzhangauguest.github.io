@@ -81,7 +81,7 @@ Branch and Bound Algorithm (B&B)是整数规划的精确算法。
 
 $f(\theta x+(1-\theta)y)\le \theta f(x) + (1-\theta)f(y)$
 
-(https://pic3.zhimg.com/80/v2-0c43ad94ba4826a337b23a5ae6b200b2_hd.jpg)
+![a](https://pic3.zhimg.com/80/v2-0c43ad94ba4826a337b23a5ae6b200b2_hd.jpg)
 
 参考资料：
 
